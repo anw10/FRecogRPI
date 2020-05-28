@@ -1,3 +1,4 @@
+# Raspberry Pi Face Recognition
 Face Recognition Algorithm created with Local Binary Patterns, current version stores histograms and compares live picture with database of histograms. 
 
 Raspberry Pi is a heterogeneous system maily used by hobbiysts and educators. There is also an on board GPU to handle graphic intensive tasks.
